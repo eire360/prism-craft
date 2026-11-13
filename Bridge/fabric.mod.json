@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"prismcraft","version":"0.1.0","name":"Prism Craft","environment":"client","mixins":["prismcraft.mixins.json"],"depends":{"fabricloader":">=0.20.1","minecraft":"26.3"}}
